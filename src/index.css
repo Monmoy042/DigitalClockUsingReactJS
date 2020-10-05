@@ -1,0 +1,10 @@
+.body{
+    color:darkcyan;
+    margin-top: 300px;
+}
+.body h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 10px;
+}
